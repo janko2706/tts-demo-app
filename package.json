@@ -2,7 +2,6 @@
   "name": "ttn-webhook-node-app",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Kevin Schiffer <mail@kevinschiffer.de>",
   "license": "MIT",
   "private": false,
   "scripts": {
